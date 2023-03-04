@@ -4,5 +4,5 @@ projects by SERGEI VASILEV , 2022-2023
 
 These projects are the intellectual property of the copyright holder. All rights reserved. Copying of material without the consent of the author is not allowed.
 
-| **Наименования проекта**   | **Описание проекта** | **Используемый стек** | **Ссылка на проект** |
-| -------------------------- | -------------------- |-----------------------|----------------------| 
+| **Наименования проекта**   | **Описание проекта** | **Используемый стек** |
+| -------------------------- | -------------------- |-----------------------|
