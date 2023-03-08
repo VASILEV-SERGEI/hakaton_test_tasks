@@ -6,4 +6,4 @@ These projects are the intellectual property of the copyright holder. All rights
 
 | **Наименования проекта**   | **Описание проекта** | **Используемый стек** |
 | -------------------------- | -------------------- |-----------------------|
-| [1. Парсинг данных с сайта с помощью API и ручных методов.](https://github.com/VASILEV-SERGEI/pet_projects/tree/main/test_parsing_best_buy "Нажми для перехода") | Необходимо выполнить подключение к любому API из раздела Shopping https://github.com/public-apis/public-apis#shopping получить данные и выполнить базовый анализ данных | Python, Pandas, парсинг данных, исследовательский анализ данных, визуализация данных, предобработка данных. |
+| [1. Парсинг данных с сайта с помощью API и ручных методов.](https://github.com/VASILEV-SERGEI/pet_projects/tree/main/test_parsing_best_buy "Нажми для перехода") | Необходимо выполнить подключение к любому API из раздела Shopping https://github.com/public-apis/public-apis#shopping получить данные и выполнить базовый анализ данных. | Python, Pandas, парсинг данных, исследовательский анализ данных, визуализация данных, предобработка данных. |
