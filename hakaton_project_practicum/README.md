@@ -1,3 +1,6 @@
+Проект с интерактивными графиками доступен по [ссылке](https://nbviewer.org/github/VASILEV-SERGEI/pet_projects/blob/main/hakaton_project_practicum/hakaton_project_practicum.ipynb "Нажми для перехода")
+
+
 **Цель исследования – предложить гипотезы по улучшению выстраивания помощи студентам в достижении их целей.**
 
 **Задачи исследования:**
