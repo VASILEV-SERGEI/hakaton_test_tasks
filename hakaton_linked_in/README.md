@@ -17,6 +17,5 @@
 - хард скилы — barchart.
 
 
-**Ссылка на дашборд**
-https://public.tableau.com/app/profile/sergei.v8049/viz/linked_in_vacancies_dashboard_ver_2_0/Dashboard1?publish=yes
+**[Ссылка на дашборд](https://public.tableau.com/app/profile/sergei.v8049/viz/linked_in_vacancies_dashboard_ver_2_0/Dashboard1?publish=yes "Нажми для перехода")**
 
